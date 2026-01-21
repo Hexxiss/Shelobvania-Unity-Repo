@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18318d03eeee8854f90ffecb536812c2
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/39 Impact Explosion.unity
+  uploadId: 740635

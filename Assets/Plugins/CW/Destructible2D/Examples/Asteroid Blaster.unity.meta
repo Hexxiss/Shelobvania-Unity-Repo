@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a2fd98c4ce53d8488457e7aa8b42568
+timeCreated: 1545137468
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Asteroid Blaster.unity
+  uploadId: 740635

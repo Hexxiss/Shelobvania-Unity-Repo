@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5538e1ceb3994394082b5d75896b7943
+timeCreated: 1442044694
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Scripts/D2dSplitSpawner.cs
+  uploadId: 740635

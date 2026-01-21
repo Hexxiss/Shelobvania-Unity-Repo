@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1533ae7522ecd9e449e27fe86605ef98
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Spaceship Jump.prefab
+  uploadId: 740635

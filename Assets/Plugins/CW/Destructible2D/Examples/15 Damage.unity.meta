@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c132a7b3f53573d4c8d8b84b18b23de8
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/15 Damage.unity
+  uploadId: 740635

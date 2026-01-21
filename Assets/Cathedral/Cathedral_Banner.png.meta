@@ -1,0 +1,3640 @@
+fileFormatVersion: 2
+guid: 9b28cb48f07912f41a13aa713cd4edd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8471964624366699473
+    second: Cathedral_Banner_0
+  - first:
+      213: 2697628871660590403
+    second: Cathedral_Banner_1
+  - first:
+      213: -4437870877302512171
+    second: Cathedral_Banner_2
+  - first:
+      213: -2353144919319874928
+    second: Cathedral_Banner_3
+  - first:
+      213: 3497736444089928833
+    second: Cathedral_Banner_4
+  - first:
+      213: 4983924753781778177
+    second: Cathedral_Banner_5
+  - first:
+      213: 7966924068000961888
+    second: Cathedral_Banner_6
+  - first:
+      213: 2554113023216277189
+    second: Cathedral_Banner_7
+  - first:
+      213: 5610238956909352329
+    second: Cathedral_Banner_8
+  - first:
+      213: -3410738339125627577
+    second: Cathedral_Banner_9
+  - first:
+      213: 3574614956277751282
+    second: Cathedral_Banner_10
+  - first:
+      213: 7707039571857789275
+    second: Cathedral_Banner_11
+  - first:
+      213: -6948565260680172164
+    second: Cathedral_Banner_12
+  - first:
+      213: 6985667167229490179
+    second: Cathedral_Banner_13
+  - first:
+      213: 1808669060567093511
+    second: Cathedral_Banner_14
+  - first:
+      213: -1005307298469992478
+    second: Cathedral_Banner_15
+  - first:
+      213: 367065791663117441
+    second: Cathedral_Banner_16
+  - first:
+      213: -740313630206086835
+    second: Cathedral_Banner_17
+  - first:
+      213: -812317623021716409
+    second: Cathedral_Banner_18
+  - first:
+      213: 1033087397638718206
+    second: Cathedral_Banner_19
+  - first:
+      213: -4615299559242993224
+    second: Cathedral_Banner_20
+  - first:
+      213: 8222371204648613951
+    second: Cathedral_Banner_21
+  - first:
+      213: 2566873618340874122
+    second: Cathedral_Banner_22
+  - first:
+      213: 4616652880606187928
+    second: Cathedral_Banner_23
+  - first:
+      213: 5742736683043578771
+    second: Cathedral_Banner_24
+  - first:
+      213: -2377535484842903796
+    second: Cathedral_Banner_25
+  - first:
+      213: -6738576193872379691
+    second: Cathedral_Banner_26
+  - first:
+      213: 749609847900893990
+    second: Cathedral_Banner_27
+  - first:
+      213: -4870455329180233700
+    second: Cathedral_Banner_28
+  - first:
+      213: 563549428932407285
+    second: Cathedral_Banner_29
+  - first:
+      213: 3955359640987908710
+    second: Cathedral_Banner_30
+  - first:
+      213: -606896938909556478
+    second: Cathedral_Banner_31
+  - first:
+      213: 3839545650909713374
+    second: Cathedral_Banner_32
+  - first:
+      213: -1458080974478700139
+    second: Cathedral_Banner_33
+  - first:
+      213: 4744860688742136084
+    second: Cathedral_Banner_34
+  - first:
+      213: -8316096907726550678
+    second: Cathedral_Banner_35
+  - first:
+      213: -3260434819789186062
+    second: Cathedral_Banner_36
+  - first:
+      213: -3418961122379936715
+    second: Cathedral_Banner_37
+  - first:
+      213: 3172039047502483331
+    second: Cathedral_Banner_38
+  - first:
+      213: -1628419537008878027
+    second: Cathedral_Banner_39
+  - first:
+      213: 1188634061905764080
+    second: Cathedral_Banner_40
+  - first:
+      213: -2247788235509308038
+    second: Cathedral_Banner_41
+  - first:
+      213: -3621862628931205352
+    second: Cathedral_Banner_42
+  - first:
+      213: -271691834384790206
+    second: Cathedral_Banner_43
+  - first:
+      213: 1551024669047349082
+    second: Cathedral_Banner_44
+  - first:
+      213: 6305606417057582857
+    second: Cathedral_Banner_45
+  - first:
+      213: 786680564450377071
+    second: Cathedral_Banner_46
+  - first:
+      213: -8498302067803296515
+    second: Cathedral_Banner_47
+  - first:
+      213: -8001867141134207748
+    second: Cathedral_Banner_48
+  - first:
+      213: -8943045539408291937
+    second: Cathedral_Banner_49
+  - first:
+      213: -8588358596903797109
+    second: Cathedral_Banner_50
+  - first:
+      213: 590913401248088187
+    second: Cathedral_Banner_51
+  - first:
+      213: -3082346823240496290
+    second: Cathedral_Banner_52
+  - first:
+      213: 6343965361543016489
+    second: Cathedral_Banner_53
+  - first:
+      213: 6369152166236820623
+    second: Cathedral_Banner_54
+  - first:
+      213: -8230319156703227723
+    second: Cathedral_Banner_55
+  - first:
+      213: -176258485323291470
+    second: Cathedral_Banner_56
+  - first:
+      213: 6344237469304963335
+    second: Cathedral_Banner_57
+  - first:
+      213: 5429298044681652790
+    second: Cathedral_Banner_58
+  - first:
+      213: -1154113555575816924
+    second: Cathedral_Banner_59
+  - first:
+      213: 7229129082360055141
+    second: Cathedral_Banner_60
+  - first:
+      213: -6174830082884419830
+    second: Cathedral_Banner_61
+  - first:
+      213: 1022601710167037426
+    second: Cathedral_Banner_62
+  - first:
+      213: -3011623072667706657
+    second: Cathedral_Banner_63
+  - first:
+      213: 8155025430971698049
+    second: Cathedral_Banner_64
+  - first:
+      213: 1671719321779371415
+    second: Cathedral_Banner_65
+  - first:
+      213: -3649678665335710908
+    second: Cathedral_Banner_66
+  - first:
+      213: -2891921962504915325
+    second: Cathedral_Banner_67
+  - first:
+      213: -78453798318761775
+    second: Cathedral_Banner_68
+  - first:
+      213: 9062150430464007233
+    second: Cathedral_Banner_69
+  - first:
+      213: 7522238925587293660
+    second: Cathedral_Banner_70
+  - first:
+      213: 8294826894593491639
+    second: Cathedral_Banner_71
+  - first:
+      213: -3615909745791610532
+    second: Cathedral_Banner_72
+  - first:
+      213: 2552252266513706968
+    second: Cathedral_Banner_73
+  - first:
+      213: -826131731993250670
+    second: Cathedral_Banner_74
+  - first:
+      213: 9159611743954350170
+    second: Cathedral_Banner_75
+  - first:
+      213: -3521267004707231539
+    second: Cathedral_Banner_76
+  - first:
+      213: 4339102259140559338
+    second: Cathedral_Banner_77
+  - first:
+      213: -4859103383396383324
+    second: Cathedral_Banner_78
+  - first:
+      213: 8535393947031628055
+    second: Cathedral_Banner_79
+  - first:
+      213: 6856683472281266783
+    second: Cathedral_Banner_80
+  - first:
+      213: -1169835904366100248
+    second: Cathedral_Banner_81
+  - first:
+      213: 323347412536557912
+    second: Cathedral_Banner_82
+  - first:
+      213: 4880114107464022149
+    second: Cathedral_Banner_83
+  - first:
+      213: -1877770566369253552
+    second: Cathedral_Banner_84
+  - first:
+      213: -6757919385641367534
+    second: Cathedral_Banner_85
+  - first:
+      213: -6642392429097204872
+    second: Cathedral_Banner_86
+  - first:
+      213: -4740770812024195950
+    second: Cathedral_Banner_87
+  - first:
+      213: 2178615857234892646
+    second: Cathedral_Banner_88
+  - first:
+      213: -3428546815649041837
+    second: Cathedral_Banner_89
+  - first:
+      213: -2060766836705167348
+    second: Cathedral_Banner_90
+  - first:
+      213: 5357204948394550
+    second: Cathedral_Banner_91
+  - first:
+      213: 1387858575139965995
+    second: Cathedral_Banner_92
+  - first:
+      213: 3462418621920235079
+    second: Cathedral_Banner_93
+  - first:
+      213: -7720140717787403966
+    second: Cathedral_Banner_94
+  - first:
+      213: -1478427529711605247
+    second: Cathedral_Banner_95
+  - first:
+      213: -6725626667720465705
+    second: Cathedral_Banner_96
+  - first:
+      213: -5800381392717656832
+    second: Cathedral_Banner_97
+  - first:
+      213: 3690362255465758463
+    second: Cathedral_Banner_98
+  - first:
+      213: 4979035058527487559
+    second: Cathedral_Banner_99
+  - first:
+      213: 2430380583336529462
+    second: Cathedral_Banner_100
+  - first:
+      213: -5555551345715975694
+    second: Cathedral_Banner_101
+  - first:
+      213: 4813779169294617875
+    second: Cathedral_Banner_102
+  - first:
+      213: -1100658764012987094
+    second: Cathedral_Banner_103
+  - first:
+      213: 5398637648597345765
+    second: Cathedral_Banner_104
+  - first:
+      213: 1375060225109153431
+    second: Cathedral_Banner_105
+  - first:
+      213: -4307006594382656317
+    second: Cathedral_Banner_106
+  - first:
+      213: 9106476419565905340
+    second: Cathedral_Banner_107
+  - first:
+      213: -6752985912678952695
+    second: Cathedral_Banner_108
+  - first:
+      213: -8376769293163282087
+    second: Cathedral_Banner_109
+  - first:
+      213: 3128078624813158717
+    second: Cathedral_Banner_110
+  - first:
+      213: 1566505665222030076
+    second: Cathedral_Banner_111
+  - first:
+      213: -8838939492424806619
+    second: Cathedral_Banner_112
+  - first:
+      213: -5748496989670713760
+    second: Cathedral_Banner_113
+  - first:
+      213: -7179123456964202325
+    second: Cathedral_Banner_114
+  - first:
+      213: 1225586258341283133
+    second: Cathedral_Banner_115
+  - first:
+      213: 3192891155525171342
+    second: Cathedral_Banner_116
+  - first:
+      213: 6458037407822308860
+    second: Cathedral_Banner_117
+  - first:
+      213: 740015897157587580
+    second: Cathedral_Banner_118
+  - first:
+      213: -3340774527606066332
+    second: Cathedral_Banner_119
+  - first:
+      213: 5509916811294947472
+    second: Cathedral_Banner_120
+  - first:
+      213: -1586925121851208476
+    second: Cathedral_Banner_121
+  - first:
+      213: -7965271527119593475
+    second: Cathedral_Banner_122
+  - first:
+      213: -4307237799651230408
+    second: Cathedral_Banner_123
+  - first:
+      213: -7799325332088213794
+    second: Cathedral_Banner_124
+  - first:
+      213: -7494176554081310350
+    second: Cathedral_Banner_125
+  - first:
+      213: -3790721972138415116
+    second: Cathedral_Banner_126
+  - first:
+      213: -8668928776870540999
+    second: Cathedral_Banner_127
+  - first:
+      213: 8153401115919996910
+    second: Cathedral_Banner_128
+  - first:
+      213: 2342194595584507406
+    second: Cathedral_Banner_129
+  - first:
+      213: 4513671689598975446
+    second: Cathedral_Banner_130
+  - first:
+      213: 1657336480511517430
+    second: Cathedral_Banner_131
+  - first:
+      213: -8477562801879449719
+    second: Cathedral_Banner_132
+  - first:
+      213: -2105630395340163927
+    second: Cathedral_Banner_133
+  - first:
+      213: 1570331375274288392
+    second: Cathedral_Banner_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cathedral_Banner_0
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 236
+        width: 912
+        height: 1924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d38d0180f6729570800000000000000
+      internalID: 8471964624366699473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_1
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 312
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345da278a27ef6520800000000000000
+      internalID: 2697628871660590403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_2
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 329
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5255f23f38962c0800000000000000
+      internalID: -4437870877302512171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_3
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 250
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0927ce2d923f75fd0800000000000000
+      internalID: -2353144919319874928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_4
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 277
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c0beb93c47a8030800000000000000
+      internalID: 3497736444089928833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_5
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 258
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107607858257a2540800000000000000
+      internalID: 4983924753781778177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_6
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 240
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06515b1ba33309e60800000000000000
+      internalID: 7966924068000961888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_7
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 287
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c651092348027320800000000000000
+      internalID: 2554113023216277189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_8
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 266
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985d3a36b929bdd40800000000000000
+      internalID: 5610238956909352329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_9
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 359
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7457c9a2d8f9aa0d0800000000000000
+      internalID: -3410738339125627577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_10
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 286
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fddbb51d559b9130800000000000000
+      internalID: 3574614956277751282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_11
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 251
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51567e28a7e4fa60800000000000000
+      internalID: 7707039571857789275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_12
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 237
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7de982e5bcb19f90800000000000000
+      internalID: -6948565260680172164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_13
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 319
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304b2d5e64312f060800000000000000
+      internalID: 6985667167229490179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_14
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 302
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70157578deea91910800000000000000
+      internalID: 1808669060567093511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_15
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7a690a65e6c02f0800000000000000
+      internalID: -1005307298469992478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_16
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 242
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18417498464181500800000000000000
+      internalID: 367065791663117441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_17
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 335
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41bf29fca0e9b5f0800000000000000
+      internalID: -740313630206086835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_18
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 259
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c300bfc611ab4f0800000000000000
+      internalID: -812317623021716409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 265
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2403eb383465e00800000000000000
+      internalID: 1033087397638718206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_20
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1fd47f08923ffb0800000000000000
+      internalID: -4615299559242993224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_21
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 262
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f383b70fb0bbb1270800000000000000
+      internalID: 8222371204648613951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_22
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 243
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87878cb4fd5f9320800000000000000
+      internalID: 2566873618340874122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_23
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 279
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891d0d7b555a11040800000000000000
+      internalID: 4616652880606187928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_24
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 243
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393ea6f369c42bf40800000000000000
+      internalID: 5742736683043578771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_25
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 236
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c077d01c21c410fd0800000000000000
+      internalID: -2377535484842903796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_26
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 242
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0455877a4cb72a0800000000000000
+      internalID: -6738576193872379691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_27
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 247
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62374406f26276a00800000000000000
+      internalID: 749609847900893990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_28
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 256
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10ddc1deaaa86cb0800000000000000
+      internalID: -4870455329180233700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_29
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe3e4483122d700800000000000000
+      internalID: 563549428932407285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_30
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 240
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a300813a244e630800000000000000
+      internalID: 3955359640987908710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_31
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 247
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2012605137ed397f0800000000000000
+      internalID: -606896938909556478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_32
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 244
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed39e5d3d6ec84530800000000000000
+      internalID: 3839545650909713374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_33
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5911176341bd3cbe0800000000000000
+      internalID: -1458080974478700139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_34
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 256
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419b03538a129d140800000000000000
+      internalID: 4744860688742136084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_35
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 277
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a690c394ce9479c80800000000000000
+      internalID: -8316096907726550678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_36
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 269
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb96215ecb90c2d0800000000000000
+      internalID: -3260434819789186062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_37
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c4caf39f86d80d0800000000000000
+      internalID: -3418961122379936715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_38
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 258
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fcd0025b8550c20800000000000000
+      internalID: 3172039047502483331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_39
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e974f0f01b669e0800000000000000
+      internalID: -1628419537008878027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_40
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 249
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe92d3b160ee7010800000000000000
+      internalID: 1188634061905764080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_41
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 244
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a756a2452804ec0e0800000000000000
+      internalID: -2247788235509308038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_42
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8170b41e02f8cbdc0800000000000000
+      internalID: -3621862628931205352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_43
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 249
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dce1357b1ca3cf0800000000000000
+      internalID: -271691834384790206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_44
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f5f6408b8568510800000000000000
+      internalID: 1551024669047349082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_45
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 263
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f0426b0a3028750800000000000000
+      internalID: 6305606417057582857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_46
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 256
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6db4cb2ec9daea00800000000000000
+      internalID: 786680564450377071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_47
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 239
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfced969b47ff0a80800000000000000
+      internalID: -8498302067803296515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_48
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 246
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf433d81b38a3f090800000000000000
+      internalID: -8001867141134207748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_49
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 246
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f975d65d67be3e380800000000000000
+      internalID: -8943045539408291937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_50
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e70e3fb5500d880800000000000000
+      internalID: -8588358596903797109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_51
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 241
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70096e8b98533800800000000000000
+      internalID: 590913401248088187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_52
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 351
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b423e25ed4935d0800000000000000
+      internalID: -3082346823240496290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_53
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 260
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920772272ea4a0850800000000000000
+      internalID: 6343965361543016489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_54
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 369
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8494f46626c36850800000000000000
+      internalID: 6369152166236820623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_55
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 360
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b09c94455808cd80800000000000000
+      internalID: -8230319156703227723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_56
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 344
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b428a967ddcd8df0800000000000000
+      internalID: -176258485323291470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_57
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 290
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70145a87d524b0850800000000000000
+      internalID: 6344237469304963335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_58
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 328
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a09f45ecdb85b40800000000000000
+      internalID: 5429298044681652790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_59
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 246
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42db07106d3cbffe0800000000000000
+      internalID: -1154113555575816924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_60
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 349
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565448d4996035460800000000000000
+      internalID: 7229129082360055141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_61
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 342
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f374951c89e4aa0800000000000000
+      internalID: -6174830082884419830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_62
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 312
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5963166d2013e00800000000000000
+      internalID: 1022601710167037426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_63
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 340
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda554c85c09436d0800000000000000
+      internalID: -3011623072667706657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_64
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b485b1c687c2170800000000000000
+      internalID: 8155025430971698049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_65
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 246
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df0d2bdd3233710800000000000000
+      internalID: 1671719321779371415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_66
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 357
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd758379cb95dc0800000000000000
+      internalID: -3649678665335710908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_67
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 384
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3867eb21c44ddd7d0800000000000000
+      internalID: -2891921962504915325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_68
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d81ee3afa649eef0800000000000000
+      internalID: -78453798318761775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_69
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 377
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd5fc9dc933cd70800000000000000
+      internalID: 9062150430464007233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_70
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 440
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd52f33c27c546860800000000000000
+      internalID: 7522238925587293660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_71
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 412
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b20a9ddc152d1370800000000000000
+      internalID: 8294826894593491639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_72
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 395
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51d73e7e35b1ddc0800000000000000
+      internalID: -3615909745791610532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_73
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 425
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df2cbaf9eb6b6320800000000000000
+      internalID: 2552252266513706968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_74
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 391
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2943dd8119df884f0800000000000000
+      internalID: -826131731993250670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_75
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 340
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5035e6f95a7d1f70800000000000000
+      internalID: 9159611743954350170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_76
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc82f11d052f12fc0800000000000000
+      internalID: -3521267004707231539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_77
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 427
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae10b20e386973c30800000000000000
+      internalID: 4339102259140559338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_78
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 312
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a582c9a73ff09cb0800000000000000
+      internalID: -4859103383396383324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_79
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719e6d6829fc37670800000000000000
+      internalID: 8535393947031628055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_80
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aed9e2a45d72f50800000000000000
+      internalID: 6856683472281266783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_81
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 360
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0c2ca6178e3cfe0800000000000000
+      internalID: -1169835904366100248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_82
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 329
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851884f22c2cc7400800000000000000
+      internalID: 323347412536557912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_83
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 290
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588f3cebce5a9b340800000000000000
+      internalID: 4880114107464022149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_84
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 260
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05760e56e91d0f5e0800000000000000
+      internalID: -1877770566369253552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_85
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 246
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218ce1eaf1c0732a0800000000000000
+      internalID: -6757919385641367534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_86
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 351
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873cae4574b71d3a0800000000000000
+      internalID: -6642392429097204872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_87
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 241
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294f1cb6016653eb0800000000000000
+      internalID: -4740770812024195950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_88
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 246
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667d480549ffb3e10800000000000000
+      internalID: 2178615857234892646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_89
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 246
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352317d16da5b60d0800000000000000
+      internalID: -3428546815649041837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_90
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 239
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08784dfa7fa663e0800000000000000
+      internalID: -2060766836705167348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_91
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 256
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63220f97958031000800000000000000
+      internalID: 5357204948394550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_92
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 249
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c82b9550aa24310800000000000000
+      internalID: 1387858575139965995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_93
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 263
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ec047546bfc0030800000000000000
+      internalID: 3462418621920235079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_94
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249a0449bec8cd490800000000000000
+      internalID: -7720140717787403966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_95
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aa169aef19b7be0800000000000000
+      internalID: -1478427529711605247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_96
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 244
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2a0aafd26c9a2a0800000000000000
+      internalID: -6725626667720465705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_97
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 258
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d4745ead7e08fa0800000000000000
+      internalID: -5800381392717656832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_98
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 249
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffebb814becc63330800000000000000
+      internalID: 3690362255465758463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_99
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7464fb37106191540800000000000000
+      internalID: 4979035058527487559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_100
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 269
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ec7ca83427ab120800000000000000
+      internalID: 2430380583336529462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_101
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9e7235c77b6e2b0800000000000000
+      internalID: -5555551345715975694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_102
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 277
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d0bf466aafdc240800000000000000
+      internalID: 4813779169294617875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_103
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 256
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dd5188faca9b0f0800000000000000
+      internalID: -1100658764012987094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_104
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 271
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5e1b39650dbea40800000000000000
+      internalID: 5398637648597345765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_105
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 247
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79656664df1351310800000000000000
+      internalID: 1375060225109153431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_106
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 240
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc8e8862507a34c0800000000000000
+      internalID: -4307006594382656317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_107
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb562bf2e04b06e70800000000000000
+      internalID: 9106476419565905340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_108
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 247
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901dd8d57139842a0800000000000000
+      internalID: -6752985912678952695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_109
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 242
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9514a9bb5bcbfbb80800000000000000
+      internalID: -8376769293163282087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_110
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 236
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d311b7d9fea296b20800000000000000
+      internalID: 3128078624813158717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_111
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 243
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf232325a985db510800000000000000
+      internalID: 1566505665222030076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_112
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 243
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f09d2cc57c55580800000000000000
+      internalID: -8838939492424806619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_113
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 279
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066564ad17c3930b0800000000000000
+      internalID: -5748496989670713760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_114
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 262
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba079f4a041ae5c90800000000000000
+      internalID: -7179123456964202325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_115
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 259
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3548026538220110800000000000000
+      internalID: 1225586258341283133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_116
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88709bd69d6f4c20800000000000000
+      internalID: 3192891155525171342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_117
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 265
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5ee676ece8f9950800000000000000
+      internalID: 6458037407822308860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_118
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 241
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c725836a980154a00800000000000000
+      internalID: 740015897157587580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_119
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 319
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463fd5f644f23a1d0800000000000000
+      internalID: -3340774527606066332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_120
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 335
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0983037a528277c40800000000000000
+      internalID: 5509916811294947472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_121
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 251
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec4ae2720c1af9e0800000000000000
+      internalID: -1586925121851208476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_122
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffd0867fbba57190800000000000000
+      internalID: -7965271527119593475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_123
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 302
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d37acba0e9934c0800000000000000
+      internalID: -4307237799651230408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_124
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 312
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede2d2ddeea33c390800000000000000
+      internalID: -7799325332088213794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_125
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 237
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2792ce141265ff790800000000000000
+      internalID: -7494176554081310350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_126
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 286
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbeb605376a46bc0800000000000000
+      internalID: -3790721972138415116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_127
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 359
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93948771537c1b780800000000000000
+      internalID: -8668928776870540999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_128
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 240
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee75fa9cd13b62170800000000000000
+      internalID: 8153401115919996910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_129
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 329
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e77a04395218020800000000000000
+      internalID: 2342194595584507406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_130
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 287
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddb84bbc78c3ae30800000000000000
+      internalID: 4513671689598975446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_131
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 250
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f26f228fba000710800000000000000
+      internalID: 1657336480511517430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_132
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 266
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ff8e83c85a95a80800000000000000
+      internalID: -8477562801879449719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_133
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 277
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4fb71cf4c47c2e0800000000000000
+      internalID: -2105630395340163927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cathedral_Banner_134
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 258
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805efdad010fac510800000000000000
+      internalID: 1570331375274288392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cathedral_Banner_0: 8471964624366699473
+      Cathedral_Banner_1: 2697628871660590403
+      Cathedral_Banner_10: 3574614956277751282
+      Cathedral_Banner_100: 2430380583336529462
+      Cathedral_Banner_101: -5555551345715975694
+      Cathedral_Banner_102: 4813779169294617875
+      Cathedral_Banner_103: -1100658764012987094
+      Cathedral_Banner_104: 5398637648597345765
+      Cathedral_Banner_105: 1375060225109153431
+      Cathedral_Banner_106: -4307006594382656317
+      Cathedral_Banner_107: 9106476419565905340
+      Cathedral_Banner_108: -6752985912678952695
+      Cathedral_Banner_109: -8376769293163282087
+      Cathedral_Banner_11: 7707039571857789275
+      Cathedral_Banner_110: 3128078624813158717
+      Cathedral_Banner_111: 1566505665222030076
+      Cathedral_Banner_112: -8838939492424806619
+      Cathedral_Banner_113: -5748496989670713760
+      Cathedral_Banner_114: -7179123456964202325
+      Cathedral_Banner_115: 1225586258341283133
+      Cathedral_Banner_116: 3192891155525171342
+      Cathedral_Banner_117: 6458037407822308860
+      Cathedral_Banner_118: 740015897157587580
+      Cathedral_Banner_119: -3340774527606066332
+      Cathedral_Banner_12: -6948565260680172164
+      Cathedral_Banner_120: 5509916811294947472
+      Cathedral_Banner_121: -1586925121851208476
+      Cathedral_Banner_122: -7965271527119593475
+      Cathedral_Banner_123: -4307237799651230408
+      Cathedral_Banner_124: -7799325332088213794
+      Cathedral_Banner_125: -7494176554081310350
+      Cathedral_Banner_126: -3790721972138415116
+      Cathedral_Banner_127: -8668928776870540999
+      Cathedral_Banner_128: 8153401115919996910
+      Cathedral_Banner_129: 2342194595584507406
+      Cathedral_Banner_13: 6985667167229490179
+      Cathedral_Banner_130: 4513671689598975446
+      Cathedral_Banner_131: 1657336480511517430
+      Cathedral_Banner_132: -8477562801879449719
+      Cathedral_Banner_133: -2105630395340163927
+      Cathedral_Banner_134: 1570331375274288392
+      Cathedral_Banner_14: 1808669060567093511
+      Cathedral_Banner_15: -1005307298469992478
+      Cathedral_Banner_16: 367065791663117441
+      Cathedral_Banner_17: -740313630206086835
+      Cathedral_Banner_18: -812317623021716409
+      Cathedral_Banner_19: 1033087397638718206
+      Cathedral_Banner_2: -4437870877302512171
+      Cathedral_Banner_20: -4615299559242993224
+      Cathedral_Banner_21: 8222371204648613951
+      Cathedral_Banner_22: 2566873618340874122
+      Cathedral_Banner_23: 4616652880606187928
+      Cathedral_Banner_24: 5742736683043578771
+      Cathedral_Banner_25: -2377535484842903796
+      Cathedral_Banner_26: -6738576193872379691
+      Cathedral_Banner_27: 749609847900893990
+      Cathedral_Banner_28: -4870455329180233700
+      Cathedral_Banner_29: 563549428932407285
+      Cathedral_Banner_3: -2353144919319874928
+      Cathedral_Banner_30: 3955359640987908710
+      Cathedral_Banner_31: -606896938909556478
+      Cathedral_Banner_32: 3839545650909713374
+      Cathedral_Banner_33: -1458080974478700139
+      Cathedral_Banner_34: 4744860688742136084
+      Cathedral_Banner_35: -8316096907726550678
+      Cathedral_Banner_36: -3260434819789186062
+      Cathedral_Banner_37: -3418961122379936715
+      Cathedral_Banner_38: 3172039047502483331
+      Cathedral_Banner_39: -1628419537008878027
+      Cathedral_Banner_4: 3497736444089928833
+      Cathedral_Banner_40: 1188634061905764080
+      Cathedral_Banner_41: -2247788235509308038
+      Cathedral_Banner_42: -3621862628931205352
+      Cathedral_Banner_43: -271691834384790206
+      Cathedral_Banner_44: 1551024669047349082
+      Cathedral_Banner_45: 6305606417057582857
+      Cathedral_Banner_46: 786680564450377071
+      Cathedral_Banner_47: -8498302067803296515
+      Cathedral_Banner_48: -8001867141134207748
+      Cathedral_Banner_49: -8943045539408291937
+      Cathedral_Banner_5: 4983924753781778177
+      Cathedral_Banner_50: -8588358596903797109
+      Cathedral_Banner_51: 590913401248088187
+      Cathedral_Banner_52: -3082346823240496290
+      Cathedral_Banner_53: 6343965361543016489
+      Cathedral_Banner_54: 6369152166236820623
+      Cathedral_Banner_55: -8230319156703227723
+      Cathedral_Banner_56: -176258485323291470
+      Cathedral_Banner_57: 6344237469304963335
+      Cathedral_Banner_58: 5429298044681652790
+      Cathedral_Banner_59: -1154113555575816924
+      Cathedral_Banner_6: 7966924068000961888
+      Cathedral_Banner_60: 7229129082360055141
+      Cathedral_Banner_61: -6174830082884419830
+      Cathedral_Banner_62: 1022601710167037426
+      Cathedral_Banner_63: -3011623072667706657
+      Cathedral_Banner_64: 8155025430971698049
+      Cathedral_Banner_65: 1671719321779371415
+      Cathedral_Banner_66: -3649678665335710908
+      Cathedral_Banner_67: -2891921962504915325
+      Cathedral_Banner_68: -78453798318761775
+      Cathedral_Banner_69: 9062150430464007233
+      Cathedral_Banner_7: 2554113023216277189
+      Cathedral_Banner_70: 7522238925587293660
+      Cathedral_Banner_71: 8294826894593491639
+      Cathedral_Banner_72: -3615909745791610532
+      Cathedral_Banner_73: 2552252266513706968
+      Cathedral_Banner_74: -826131731993250670
+      Cathedral_Banner_75: 9159611743954350170
+      Cathedral_Banner_76: -3521267004707231539
+      Cathedral_Banner_77: 4339102259140559338
+      Cathedral_Banner_78: -4859103383396383324
+      Cathedral_Banner_79: 8535393947031628055
+      Cathedral_Banner_8: 5610238956909352329
+      Cathedral_Banner_80: 6856683472281266783
+      Cathedral_Banner_81: -1169835904366100248
+      Cathedral_Banner_82: 323347412536557912
+      Cathedral_Banner_83: 4880114107464022149
+      Cathedral_Banner_84: -1877770566369253552
+      Cathedral_Banner_85: -6757919385641367534
+      Cathedral_Banner_86: -6642392429097204872
+      Cathedral_Banner_87: -4740770812024195950
+      Cathedral_Banner_88: 2178615857234892646
+      Cathedral_Banner_89: -3428546815649041837
+      Cathedral_Banner_9: -3410738339125627577
+      Cathedral_Banner_90: -2060766836705167348
+      Cathedral_Banner_91: 5357204948394550
+      Cathedral_Banner_92: 1387858575139965995
+      Cathedral_Banner_93: 3462418621920235079
+      Cathedral_Banner_94: -7720140717787403966
+      Cathedral_Banner_95: -1478427529711605247
+      Cathedral_Banner_96: -6725626667720465705
+      Cathedral_Banner_97: -5800381392717656832
+      Cathedral_Banner_98: 3690362255465758463
+      Cathedral_Banner_99: 4979035058527487559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

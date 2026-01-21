@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19783d3718f2eda49806ef7cd22c041a
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/41 Paint Multiplier.unity
+  uploadId: 740635

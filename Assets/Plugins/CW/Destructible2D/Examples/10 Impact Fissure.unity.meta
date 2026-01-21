@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a758cd27b442d24a99351222e1bb651
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/10 Impact Fissure.unity
+  uploadId: 740635

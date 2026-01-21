@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7826541b43cefbe46abdcb904ba3d8af
+timeCreated: 1545230227
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Animations/Bee Flap.anim
+  uploadId: 740635

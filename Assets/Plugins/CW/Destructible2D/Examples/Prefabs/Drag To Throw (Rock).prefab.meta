@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4433b9d1d6ffad74eb6b6eb655bd431e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Drag To Throw (Rock).prefab
+  uploadId: 740635

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ec5bd08f5fb14194695a08967cee2ca0
+timeCreated: 1441876457
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Scripts/D2dBullet.cs
+  uploadId: 740635

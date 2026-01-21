@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 67e23d7049c291f4ba1f13c6c70f33aa
+timeCreated: 1442713280
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Scripts/D2dRepeatStamp.cs
+  uploadId: 740635

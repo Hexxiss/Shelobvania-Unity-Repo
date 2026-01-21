@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 608e5d6229d00a24d94e95269db6c4e5
+timeCreated: 1545740006
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Materials/Debris.mat
+  uploadId: 740635

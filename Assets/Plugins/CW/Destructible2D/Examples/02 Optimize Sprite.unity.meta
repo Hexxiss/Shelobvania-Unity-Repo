@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8501710ac4e0b914aa59735d0669c2ec
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/02 Optimize Sprite.unity
+  uploadId: 740635

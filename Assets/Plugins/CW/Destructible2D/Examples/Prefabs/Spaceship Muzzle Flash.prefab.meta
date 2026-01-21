@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 374f77765b7993245acc8ea70caff384
+timeCreated: 1443186006
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Spaceship Muzzle Flash.prefab
+  uploadId: 740635

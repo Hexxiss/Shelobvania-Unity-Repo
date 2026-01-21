@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df7f2c5469baa0d478e065b7f2c6617f
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/06 Slice.unity
+  uploadId: 740635

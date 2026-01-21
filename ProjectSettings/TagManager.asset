@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - World
+  - VFX_Overlay
+  - Editor Only Helpers
+  - Player
+  - PlayerNoOneWay
+  - OneWayPlatform
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background Parallax 1
+    uniqueID: 4066701593
+    locked: 0
+  - name: Background Parallax 2
+    uniqueID: 115345741
+    locked: 0
+  - name: Background Parallax 3
+    uniqueID: 1383490931
+    locked: 0
+  - name: Rim Lighting
+    uniqueID: 2751150405
+    locked: 0
+  - name: Main Background
+    uniqueID: 4200700279
+    locked: 0
+  - name: Background Accent 1
+    uniqueID: 1187558751
+    locked: 0
+  - name: Background Accent 2
+    uniqueID: 3626253717
+    locked: 0
+  - name: Background Accent 3
+    uniqueID: 956941237
+    locked: 0
+  - name: Main Stage
+    uniqueID: 2567719035
+    locked: 0
+  - name: Foreground
+    uniqueID: 1289130485
+    locked: 0
+  - name: Foreground Accent
+    uniqueID: 493952297
+    locked: 0
+  - name: 'Foreground Parallax '
+    uniqueID: 1780409675
+    locked: 0
+  - name: Environment Walls
+    uniqueID: 2645409395
+    locked: 0
+  - name: Demon Sigils
+    uniqueID: 359717183
+    locked: 0
+  - name: Camera Weather Effects
+    uniqueID: 3009363521
+    locked: 0
+  - name: Editor Only Helpers
+    uniqueID: 4171148413
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Background Walls
+  - Foreground Walls
+  - Demon Sigils

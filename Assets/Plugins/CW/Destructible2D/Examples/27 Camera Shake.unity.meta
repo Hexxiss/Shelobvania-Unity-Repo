@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f201253231dd26c43abf5752ed9455b3
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/27 Camera Shake.unity
+  uploadId: 740635

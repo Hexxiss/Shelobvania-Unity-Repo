@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce2818b6eea7a214c8aac47ab6b4de94
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/20 Lightbulb.unity
+  uploadId: 740635

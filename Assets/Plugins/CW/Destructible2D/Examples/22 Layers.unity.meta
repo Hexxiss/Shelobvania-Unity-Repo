@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7ef24c42b1ee9b439121b95744b18c9
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/22 Layers.unity
+  uploadId: 740635

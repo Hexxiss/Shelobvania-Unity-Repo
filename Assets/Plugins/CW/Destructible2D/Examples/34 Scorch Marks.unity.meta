@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31bc16d823c0d1e4f932a193913098e5
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/34 Scorch Marks.unity
+  uploadId: 740635

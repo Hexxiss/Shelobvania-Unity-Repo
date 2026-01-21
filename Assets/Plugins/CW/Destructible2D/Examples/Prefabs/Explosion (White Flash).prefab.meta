@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9e116e5a6c65c34981fd6b1f355b95a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Explosion (White Flash).prefab
+  uploadId: 740635

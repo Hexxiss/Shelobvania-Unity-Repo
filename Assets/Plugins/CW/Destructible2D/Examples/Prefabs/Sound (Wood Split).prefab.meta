@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37ecab29fb2a9cb46946c54bae5c20a6
+timeCreated: 1441879107
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Sound (Wood Split).prefab
+  uploadId: 740635

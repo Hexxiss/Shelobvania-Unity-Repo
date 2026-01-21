@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb77a735657142e44ad6c5483ec0117f
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/28 Follow.unity
+  uploadId: 740635

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f85053aac5922df48b8cdbaf0f23d5e5
+timeCreated: 1545137468
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Crash Damage.unity
+  uploadId: 740635

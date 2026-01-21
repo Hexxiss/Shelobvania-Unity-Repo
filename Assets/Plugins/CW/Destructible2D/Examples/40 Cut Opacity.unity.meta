@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58d6d4a9d9085bc4da69ca349c0e491e
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/40 Cut Opacity.unity
+  uploadId: 740635

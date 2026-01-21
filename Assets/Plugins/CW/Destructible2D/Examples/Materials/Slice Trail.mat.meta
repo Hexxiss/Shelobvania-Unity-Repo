@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 977d40fc661fab4408bfb4aaeb264613
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Materials/Slice Trail.mat
+  uploadId: 740635

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2a678ad727398c4b85ce20c9386647a
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/44 Solid Range.unity
+  uploadId: 740635

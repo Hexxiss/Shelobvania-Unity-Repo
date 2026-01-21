@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2fffd2f5af40154984b881aa2dd2eca
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/38 Trigger Overlap.unity
+  uploadId: 740635

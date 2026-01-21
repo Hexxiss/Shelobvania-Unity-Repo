@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51c9e0daddc9330468e020d45938b28c
+timeCreated: 1441959341
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Materials/White Pixel.mat
+  uploadId: 740635

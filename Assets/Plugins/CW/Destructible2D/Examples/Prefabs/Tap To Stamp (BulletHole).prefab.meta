@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4fb4f545651078645aab8cc4ed138ad5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Tap To Stamp (BulletHole).prefab
+  uploadId: 740635

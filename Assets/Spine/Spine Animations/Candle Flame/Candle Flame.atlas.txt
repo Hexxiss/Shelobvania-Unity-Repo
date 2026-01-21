@@ -1,0 +1,5 @@
+Candle Flame.png
+size:3844,2164
+filter:Linear,Linear
+Candle flame
+bounds:2,2,3840,2160

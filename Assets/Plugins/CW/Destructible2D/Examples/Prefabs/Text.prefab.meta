@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f7fba2c245e312546ad8e6a09a92f812
+timeCreated: 1568594775
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Text.prefab
+  uploadId: 740635

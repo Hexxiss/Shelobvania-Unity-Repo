@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e6a71c7c3a17b54188079842ec88e09
+timeCreated: 1545137468
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Jumping Spaceship.unity
+  uploadId: 740635

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab4faab0ed32a5d418efbb4db6ff7c05
+timeCreated: 1441879107
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Sound (Egg Crack).prefab
+  uploadId: 740635

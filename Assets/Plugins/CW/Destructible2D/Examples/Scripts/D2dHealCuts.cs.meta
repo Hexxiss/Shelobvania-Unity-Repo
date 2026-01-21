@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a3ac77deff012fc49a4194a5a45fe3f4
+timeCreated: 1545177576
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Scripts/D2dHealCuts.cs
+  uploadId: 740635

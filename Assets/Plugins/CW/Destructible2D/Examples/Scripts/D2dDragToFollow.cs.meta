@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b8e4e37a51d08f14688a2f823b571b69
+timeCreated: 1545535719
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Scripts/D2dDragToFollow.cs
+  uploadId: 740635

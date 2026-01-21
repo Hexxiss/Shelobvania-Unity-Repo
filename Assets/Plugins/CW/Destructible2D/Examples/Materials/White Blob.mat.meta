@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d879c2356b10f44bb6fcb5ea490440c
+timeCreated: 1441959341
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Materials/White Blob.mat
+  uploadId: 740635

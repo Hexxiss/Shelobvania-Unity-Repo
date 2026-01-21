@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 49819e36e5e01744981e66c6660b97b1
+timeCreated: 1574517736
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Textures/Dynamic Texture.renderTexture
+  uploadId: 740635

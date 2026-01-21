@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4bbf74626f8e926489596e6692e4dc73
+timeCreated: 1545218084
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Shooting Gallery.unity
+  uploadId: 740635

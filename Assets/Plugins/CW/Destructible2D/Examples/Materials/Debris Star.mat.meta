@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c49b44b34b5bd9b4d9e99f508dcdc793
+timeCreated: 1545740006
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Materials/Debris Star.mat
+  uploadId: 740635

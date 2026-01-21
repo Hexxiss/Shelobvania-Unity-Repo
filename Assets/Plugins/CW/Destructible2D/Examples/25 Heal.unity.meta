@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb3e216b52a80b54c8ac43408b5c6071
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/25 Heal.unity
+  uploadId: 740635

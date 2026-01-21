@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2d7d4ea59178bdf4ca072c989b7d381b
+timeCreated: 1541733061
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Scripts/D2dTapToFracture.cs
+  uploadId: 740635

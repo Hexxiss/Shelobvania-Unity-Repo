@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb93faaf9176cec43a7ef2363f00e763
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/14 Impact Spawner.unity
+  uploadId: 740635

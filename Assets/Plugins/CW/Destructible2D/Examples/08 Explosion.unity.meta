@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fff4dea789ca54142b85fd6d3cd7c01c
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/08 Explosion.unity
+  uploadId: 740635

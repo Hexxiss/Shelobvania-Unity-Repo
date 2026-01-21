@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d577b80a09a9d4e43b7f3ab84d2db974
+timeCreated: 1441879107
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Explosion (Red Medium).prefab
+  uploadId: 740635

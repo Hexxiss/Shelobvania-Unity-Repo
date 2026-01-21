@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 263a9a2c2a5e8914fb79b3f4ee392693
+timeCreated: 1545226669
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Trees.unity
+  uploadId: 740635

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a60a337833fe3ff449b9b3ae01d3bd2c
+timeCreated: 1441856024
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Scripts/D2dPlayerSpaceship.cs
+  uploadId: 740635

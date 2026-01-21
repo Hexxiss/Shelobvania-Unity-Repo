@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d2a33d2453fe5e498aec7e3d03d7035
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Explosion (Snowball).prefab
+  uploadId: 740635

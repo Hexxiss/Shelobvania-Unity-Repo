@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9528f1e808b43a14080c39313994d991
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Tap To Stamp (Heal).prefab
+  uploadId: 740635

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4f89f79020a69448a6362b2d377fddc
+timeCreated: 1441879107
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Spaceship Bullet Explosion.prefab
+  uploadId: 740635

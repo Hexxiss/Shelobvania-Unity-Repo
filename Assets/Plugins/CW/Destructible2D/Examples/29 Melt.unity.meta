@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afc8bb4cfcefbac4387af0791a5e7020
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/29 Melt.unity
+  uploadId: 740635

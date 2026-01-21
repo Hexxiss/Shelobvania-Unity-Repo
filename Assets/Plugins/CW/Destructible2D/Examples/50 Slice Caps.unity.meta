@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d72bfefa71fe22947aa5e9f2d65a02b3
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/50 Slice Caps.unity
+  uploadId: 740635

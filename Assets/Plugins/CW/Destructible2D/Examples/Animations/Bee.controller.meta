@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 51a72dff93742454b9d68e22d929a05e
+timeCreated: 1545230227
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Animations/Bee.controller
+  uploadId: 740635

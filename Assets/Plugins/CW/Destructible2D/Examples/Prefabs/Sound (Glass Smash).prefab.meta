@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 404e53e625a267145afedf3a5c0f0aa8
+timeCreated: 1545028534
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/Prefabs/Sound (Glass Smash).prefab
+  uploadId: 740635

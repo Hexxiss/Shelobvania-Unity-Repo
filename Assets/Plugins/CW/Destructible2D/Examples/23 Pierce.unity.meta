@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35442f1ea6c26ae49a081f3ebdab6f74
+timeCreated: 1545009850
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18125
+  packageName: Destructible 2D
+  packageVersion: 4.2.1
+  assetPath: Assets/Plugins/CW/Destructible2D/Examples/23 Pierce.unity
+  uploadId: 740635
