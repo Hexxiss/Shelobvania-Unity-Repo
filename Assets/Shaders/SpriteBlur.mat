@@ -41,7 +41,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BlurRadius: 6.23
+    - _BlurRadius: 2.17
     - _EnableExternalAlpha: 0
     - _ZWrite: 0
     m_Colors:
