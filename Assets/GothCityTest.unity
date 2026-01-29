@@ -567,12 +567,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef5b670e2c5b624485d9ec481557f3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time01: 0.761
-  playInGame: 1
+  time01: 0.522
+  autoAdvanceInGame: 1
   secondsPerFullDay: 300
   timeScale: 1
-  loop: 1
-  crossfadeFraction: 0.673
+  stopAtNight: 1
+  nightLockTime01: 0.75
+  onReachedNight:
+    m_PersistentCalls:
+      m_Calls: []
+  crossfadeFraction: 0.683
   previewInEditMode: 1
   morning:
     name: Morning
@@ -594,63 +598,19 @@ MonoBehaviour:
   - name: Background Parallax layer
     root: {fileID: 1161331228}
     includeInactiveChildren: 0
-    dayTint: {r: 1, g: 1, b: 1, a: 0.003921569}
+    morningTint: {r: 0.8018868, g: 0.71262014, b: 0.57872015, a: 1}
+    afternoonTint: {r: 1, g: 1, b: 1, a: 1}
+    eveningTint: {r: 0.5660378, g: 0.5660378, b: 0.5660378, a: 1}
     nightTint: {r: 0.23708981, g: 0.0124154445, b: 0.2924528, a: 0.003921569}
-    maxNightStrength: 1
-    nightAmountOverDay:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
+    tintStrength: 1
   - name: Background Parallax Layer 2
     root: {fileID: 1183662004}
     includeInactiveChildren: 0
-    dayTint: {r: 1, g: 1, b: 1, a: 0.003921569}
+    morningTint: {r: 1, g: 0.97, b: 0.92, a: 1}
+    afternoonTint: {r: 1, g: 1, b: 1, a: 1}
+    eveningTint: {r: 1, g: 0.82, b: 0.65, a: 1}
     nightTint: {r: 0.1082531, g: 0.0031149874, b: 0.13207549, a: 0.003921569}
-    maxNightStrength: 1
-    nightAmountOverDay:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 1
-        outSlope: 1
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
+    tintStrength: 1
   globalLight: {fileID: 1359197684}
   driveGlobalLight: 1
   lightFollowsPhaseCrossfade: 1
@@ -2902,7 +2862,7 @@ SpriteRenderer:
   m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -6340621698049924969, guid: c81677fd21b95b84496a968524560b2f, type: 3}
-  m_Color: {r: 0.41838512, g: 0.2476505, b: 0.46049494, a: 1}
+  m_Color: {r: 0.5646339, g: 0.5642204, b: 0.5647358, a: 1}
   m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
@@ -3577,7 +3537,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -2365443660851342428, guid: 8318d651e38bb6249a0380e5b9814c88, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -4306,7 +4266,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -1836379931905917322, guid: 1fe825dee00a25e44b01613f03622307, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5382,8 +5342,8 @@ MonoBehaviour:
   m_LightType: 4
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
-  m_Color: {r: 0.55, g: 0.65, b: 1, a: 1}
-  m_Intensity: 0.65
+  m_Color: {r: 1, g: 0.75, b: 0.55, a: 1}
+  m_Intensity: 0.75
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
   m_ApplyToSortingLayers: 00000000779961faf591d64c5fb5c846953d24d8b5c309397b480c99291d711d4be51e6a19f164f273bead9d4539fba34d09e00673657652413e5fb37dac9ef83fd97015
@@ -8666,7 +8626,7 @@ SpriteRenderer:
   m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -9065330042281689274, guid: 57059e957e141274e9badece9f0aac7c, type: 3}
-  m_Color: {r: 0.16978599, g: 0.12751651, b: 0.17936349, a: 1}
+  m_Color: {r: 0.5283019, g: 0.43320754, b: 0.34339622, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
