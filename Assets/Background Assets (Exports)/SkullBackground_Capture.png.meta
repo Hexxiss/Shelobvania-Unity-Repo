@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8d70e10ac8ffb6f43871a4e92230c484
+guid: c66dd7d9b743a9d40aeba623ca718f5a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3779611296942588311
-    second: Cemetery_Tombstone2_0
+      213: -8697270834192047961
+    second: SkullBackground_Capture_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cemetery_Tombstone2_0
+      name: SkullBackground_Capture_0
       rect:
         serializedVersion: 2
-        x: 1261
-        y: 167
-        width: 996
-        height: 1599
+        x: 644
+        y: 482
+        width: 2574
+        height: 778
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 96efea8fc8f1c8bc0800000000000000
-      internalID: -3779611296942588311
+      spriteID: 7a02e94a1461d4780800000000000000
+      internalID: -8697270834192047961
       vertices: []
       indices: 
       edges: []

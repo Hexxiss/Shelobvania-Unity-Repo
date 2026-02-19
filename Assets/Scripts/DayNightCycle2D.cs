@@ -78,7 +78,34 @@ public class DayNightCycle2D : MonoBehaviour
         [Tooltip("Overall strength of the tint multiplier. 0 = no tinting, 1 = full phase tint.")]
         [Range(0f, 1f)] public float tintStrength = 1f;
 
+        [Header("Parallax (based on Camera movement)")]
+        [Tooltip("Enable parallax motion for this tint group root transform.")]
+        public bool enableParallax = false;
+
+        [Tooltip("Camera to track for parallax. If null, will use Camera.main when possible.")]
+        public Camera parallaxCamera;
+
+        [Tooltip("Parallax scale. 0 = locked, 1 = moves 1:1 with camera delta. Typical background: 0.05–0.3")]
+        public Vector2 parallaxScale = new Vector2(0.1f, 0.1f);
+
+        [Tooltip("Allow parallax on X axis.")]
+        public bool parallaxX = true;
+
+        [Tooltip("Allow parallax on Y axis.")]
+        public bool parallaxY = true;
+
+        [Tooltip("If true, uses localPosition (recommended when each group lives under its own parent).")]
+        public bool useLocalPosition = true;
+
+        [Tooltip("If true, parallax updates in Edit Mode preview as well (when previewInEditMode is enabled).")]
+        public bool parallaxInEditMode = true;
+
         [NonSerialized] public SpriteRenderer[] renderers;
+
+        // Parallax caches
+        [NonSerialized] public bool _parallaxCached;
+        [NonSerialized] public Vector3 _groupBasePos;
+        [NonSerialized] public Vector3 _camBasePos;
 
         public bool IsValid => root != null;
     }
@@ -96,7 +123,7 @@ public class DayNightCycle2D : MonoBehaviour
     public PhaseBackground evening = new PhaseBackground { name = "Evening" };
     public PhaseBackground night = new PhaseBackground { name = "Night" };
 
-    [Header("Tint Groups (Any Number)")]
+    [Header("Tint + Parallax Groups (Any Number)")]
     public List<TintGroup> tintGroups = new List<TintGroup>();
 
     [Header("Global Light 2D (Optional)")]
@@ -231,6 +258,9 @@ public class DayNightCycle2D : MonoBehaviour
                 if (!_originalColorByRendererId.ContainsKey(id))
                     _originalColorByRendererId.Add(id, r.color);
             }
+
+            // Reset parallax base cache (so it re-captures cleanly after changes/rebuilds)
+            g._parallaxCached = false;
         }
     }
 
@@ -258,6 +288,17 @@ public class DayNightCycle2D : MonoBehaviour
             }
         }
 
+        ApplyAll();
+    }
+
+    [ContextMenu("Reset Parallax Bases (Tint Groups)")]
+    public void ResetParallaxBases()
+    {
+        foreach (var g in tintGroups)
+        {
+            if (g == null) continue;
+            g._parallaxCached = false;
+        }
         ApplyAll();
     }
 
@@ -363,7 +404,8 @@ public class DayNightCycle2D : MonoBehaviour
     private void ApplyAll()
     {
         ApplyPhaseCrossfade();
-        ApplyTintGroups_PhaseBlended(); // NEW phase-based tinting
+        ApplyParallax();              // Parallax per Tint Group root
+        ApplyTintGroups_PhaseBlended();
         ApplyGlobalLight();
     }
 
@@ -419,7 +461,59 @@ public class DayNightCycle2D : MonoBehaviour
         }
     }
 
-    // NEW: Tint groups blend between phase tints just like the global light blends between phase looks.
+    // Parallax per TintGroup, based on camera delta from captured base position.
+    private void ApplyParallax()
+    {
+        for (int gi = 0; gi < tintGroups.Count; gi++)
+        {
+            var g = tintGroups[gi];
+            if (g == null || !g.IsValid) continue;
+            if (!g.enableParallax) continue;
+
+            if (!Application.isPlaying && (!previewInEditMode || !g.parallaxInEditMode))
+                continue;
+
+            Camera cam = g.parallaxCamera != null ? g.parallaxCamera : Camera.main;
+            if (cam == null) continue;
+
+            Transform camT = cam.transform;
+
+            // Cache base positions once (or whenever reset/rebuild occurs)
+            if (!g._parallaxCached)
+            {
+                if (g.useLocalPosition)
+                    g._groupBasePos = g.root.localPosition;
+                else
+                    g._groupBasePos = g.root.position;
+
+                g._camBasePos = camT.position; // world
+                g._parallaxCached = true;
+            }
+
+            Vector3 camDeltaWorld = camT.position - g._camBasePos;
+
+            float sx = g.parallaxX ? g.parallaxScale.x : 0f;
+            float sy = g.parallaxY ? g.parallaxScale.y : 0f;
+
+            if (g.useLocalPosition)
+            {
+                // Convert world delta into the group's parent local space
+                Vector3 camDeltaLocal = (g.root.parent != null)
+                    ? g.root.parent.InverseTransformVector(camDeltaWorld)
+                    : camDeltaWorld;
+
+                Vector3 offsetLocal = new Vector3(camDeltaLocal.x * sx, camDeltaLocal.y * sy, 0f);
+                g.root.localPosition = g._groupBasePos + offsetLocal;
+            }
+            else
+            {
+                Vector3 offsetWorld = new Vector3(camDeltaWorld.x * sx, camDeltaWorld.y * sy, 0f);
+                g.root.position = g._groupBasePos + offsetWorld;
+            }
+        }
+    }
+
+    // Tint groups blend between phase tints just like the global light blends between phase looks.
     private void ApplyTintGroups_PhaseBlended()
     {
         for (int gi = 0; gi < tintGroups.Count; gi++)
