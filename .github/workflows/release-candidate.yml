@@ -36,7 +36,14 @@ jobs:
 
       - name: Set RC tag
         id: version
-        run: echo "RC_TAG=rc-pr${{ github.event.pull_request.number }}" >> "$GITHUB_OUTPUT"
+        run: |
+          DATE=$(date +'%Y%m%d')
+          PRODUCT=$(grep 'productName:' ProjectSettings/ProjectSettings.asset | awk '{print $2}')
+          PRODUCT_LOWER=$(echo "$PRODUCT" | tr '[:upper:]' '[:lower:]')
+          echo "RC_TAG=rc-pr${{ github.event.pull_request.number }}" >> "$GITHUB_OUTPUT"
+          echo "RC_NAME=${PRODUCT_LOWER}_rc-pr${{ github.event.pull_request.number }}_${DATE}" >> "$GITHUB_OUTPUT"
+          echo "PRODUCT=${PRODUCT}" >> "$GITHUB_OUTPUT"
+          echo "PRODUCT_LOWER=${PRODUCT_LOWER}" >> "$GITHUB_OUTPUT"
 
       - name: Cache Unity Library folder
         uses: actions/cache@v4
@@ -56,19 +63,19 @@ jobs:
         with:
           projectPath:    "."
           targetPlatform: StandaloneWindows64
-          buildName:      Shelobvania
+          buildName:      ${{ steps.version.outputs.PRODUCT }}
           buildsPath:     build
 
       - name: Zip Windows build
         run: |
           cd build/StandaloneWindows64
-          zip -r ../../Shelobvania-Windows-${{ steps.version.outputs.RC_TAG }}.zip .
+          zip -r ../../${{ steps.version.outputs.PRODUCT }}-Windows-${{ steps.version.outputs.RC_TAG }}.zip .
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Shelobvania-Windows-${{ steps.version.outputs.RC_TAG }}
-          path: Shelobvania-Windows-${{ steps.version.outputs.RC_TAG }}.zip
+          name: ${{ steps.version.outputs.PRODUCT }}-Windows-${{ steps.version.outputs.RC_TAG }}
+          path: ${{ steps.version.outputs.PRODUCT }}-Windows-${{ steps.version.outputs.RC_TAG }}.zip
           if-no-files-found: error
           retention-days: 7
 
@@ -83,7 +90,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name:   ${{ steps.version.outputs.RC_TAG }}
-          name:       ${{ steps.version.outputs.RC_TAG }}
+          name:       ${{ steps.version.outputs.RC_NAME }}
           prerelease: true
           body: |
             **Release candidate for PR #${{ github.event.pull_request.number }}**
@@ -91,4 +98,4 @@ jobs:
             **Commit:** ${{ github.sha }}
 
             **Platform:** Windows x64 Standalone
-          files: Shelobvania-Windows-${{ steps.version.outputs.RC_TAG }}.zip
+          files: ${{ steps.version.outputs.PRODUCT }}-Windows-${{ steps.version.outputs.RC_TAG }}.zip

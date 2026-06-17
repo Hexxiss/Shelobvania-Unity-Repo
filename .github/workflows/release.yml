@@ -1,4 +1,4 @@
-name: Build and Release (Windows)
+name: Promote RC to Release (Windows)
 
 on:
   push:
@@ -14,24 +14,15 @@ permissions:
   pull-requests: read
 
 jobs:
-  build:
-    name: Build Unity Project (Windows)
+  release:
+    name: Promote RC to Release
     runs-on: ubuntu-latest
 
     steps:
-      - name: Free disk space
-        run: |
-          sudo rm -rf /usr/local/lib/android
-          sudo rm -rf /usr/share/dotnet
-          sudo rm -rf /opt/ghc
-          sudo rm -rf /usr/local/.ghcup
-          sudo rm -rf /opt/hostedtoolcache/CodeQL
-
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          lfs: true
 
       - name: Resolve version
         id: version
@@ -53,13 +44,15 @@ jobs:
             "/repos/${{ github.repository }}/commits/${{ github.sha }}/pulls" \
             --jq '.[0].number // empty')
 
-          RELEASE_TYPE="hotfix"
-          if [ -n "$PR_NUMBER" ]; then
-            RELEASE_TYPE=$(gh api \
-              -H "Accept: application/vnd.github+json" \
-              "/repos/${{ github.repository }}/issues/${PR_NUMBER}/labels" \
-              --jq '[.[].name | select(startswith("release-type: ")) | ltrimstr("release-type: ")] | .[0] // "hotfix"')
+          if [ -z "$PR_NUMBER" ]; then
+            echo "::error::No PR found for this commit. All changes must go through a PR so an RC exists to promote."
+            exit 1
           fi
+
+          RELEASE_TYPE=$(gh api \
+            -H "Accept: application/vnd.github+json" \
+            "/repos/${{ github.repository }}/issues/${PR_NUMBER}/labels" \
+            --jq '[.[].name | select(startswith("release-type: ")) | ltrimstr("release-type: ")] | .[0] // "hotfix"')
 
           case "$RELEASE_TYPE" in
             major)
@@ -72,10 +65,15 @@ jobs:
 
           NEW_VERSION="${MAJOR}.${MINOR}.${HOTFIX}"
 
-          echo "CURRENT_VERSION=${CURRENT}"   >> "$GITHUB_OUTPUT"
-          echo "VERSION=${NEW_VERSION}"        >> "$GITHUB_OUTPUT"
-          echo "RELEASE_TYPE=${RELEASE_TYPE}"  >> "$GITHUB_OUTPUT"
-          echo "PR_NUMBER=${PR_NUMBER}"         >> "$GITHUB_OUTPUT"
+          PRODUCT=$(grep 'productName:' ProjectSettings/ProjectSettings.asset | awk '{print $2}')
+          PRODUCT_LOWER=$(echo "$PRODUCT" | tr '[:upper:]' '[:lower:]')
+
+          echo "CURRENT_VERSION=${CURRENT}"     >> "$GITHUB_OUTPUT"
+          echo "VERSION=${NEW_VERSION}"          >> "$GITHUB_OUTPUT"
+          echo "RELEASE_TYPE=${RELEASE_TYPE}"    >> "$GITHUB_OUTPUT"
+          echo "PR_NUMBER=${PR_NUMBER}"           >> "$GITHUB_OUTPUT"
+          echo "PRODUCT=${PRODUCT}"              >> "$GITHUB_OUTPUT"
+          echo "PRODUCT_LOWER=${PRODUCT_LOWER}"  >> "$GITHUB_OUTPUT"
 
       - name: Show version bump
         run: |
@@ -83,57 +81,32 @@ jobs:
           echo "Current version : v${{ steps.version.outputs.CURRENT_VERSION }}"
           echo "New version     : v${{ steps.version.outputs.VERSION }}"
 
-      - name: Cache Unity Library folder
-        uses: actions/cache@v4
-        with:
-          path: Library
-          key: Library-Windows-${{ hashFiles('Assets/**', 'Packages/**', 'ProjectSettings/**') }}
-          restore-keys: |
-            Library-Windows-
-            Library-
-
-      - name: Build project (Windows Standalone x64)
-        uses: game-ci/unity-builder@v4
+      - name: Download RC release asset
         env:
-          UNITY_LICENSE:  ${{ secrets.UNITY_LICENSE }}
-          UNITY_EMAIL:    ${{ secrets.UNITY_EMAIL }}
-          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
-        with:
-          projectPath:      "."
-          targetPlatform:   StandaloneWindows64
-          buildName:        Shelobvania
-          buildsPath:       build
-
-      - name: Zip Windows build
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          cd build/StandaloneWindows64
-          zip -r ../../Shelobvania-Windows-${{ steps.version.outputs.VERSION }}.zip .
-
-      - name: Upload build artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: Shelobvania-Windows-${{ steps.version.outputs.VERSION }}
-          path: Shelobvania-Windows-${{ steps.version.outputs.VERSION }}.zip
-          if-no-files-found: error
-          retention-days: 7
+          RC_TAG=rc-pr${{ steps.version.outputs.PR_NUMBER }}
+          RELEASE_ZIP="${{ steps.version.outputs.PRODUCT }}-Windows-${{ steps.version.outputs.VERSION }}.zip"
+          gh release download "${RC_TAG}" --pattern "*.zip" --dir .
+          mv *.zip "${RELEASE_ZIP}"
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name:    v${{ steps.version.outputs.VERSION }}
-          name:        Release v${{ steps.version.outputs.VERSION }}
+          name:        ${{ steps.version.outputs.PRODUCT_LOWER }}_v${{ steps.version.outputs.VERSION }}
           body:        |
             **Release type:** `${{ steps.version.outputs.RELEASE_TYPE }}`
             **Previous version:** `v${{ steps.version.outputs.CURRENT_VERSION }}`
             **New version:** `v${{ steps.version.outputs.VERSION }}`
+            **Promoted from:** `rc-pr${{ steps.version.outputs.PR_NUMBER }}`
             **Commit:** ${{ github.sha }}
 
             **Platform:** Windows x64 Standalone
-          files:       Shelobvania-Windows-${{ steps.version.outputs.VERSION }}.zip
+          files:       ${{ steps.version.outputs.PRODUCT }}-Windows-${{ steps.version.outputs.VERSION }}.zip
           make_latest: true
 
       - name: Delete release candidate
-        if: steps.version.outputs.PR_NUMBER != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
